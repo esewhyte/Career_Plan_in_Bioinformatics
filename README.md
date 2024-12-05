@@ -1,5 +1,6 @@
-🌟 Paving My Path to a Career in Bioinformatics 🌟
-Welcome to my README! This document highlights my journey, aspirations, and roadmap towards building a meaningful career in bioinformatics, with a focus on leveraging genomics to revolutionize plant science and agriculture.
+🌟Welcome to my README!🌟
+
+This document highlights my journey, aspirations, and roadmap towards building a meaningful career in bioinformatics, with a focus on leveraging genomics to revolutionize plant science and agriculture.
 
 🎯 Career Goals
 Interests
